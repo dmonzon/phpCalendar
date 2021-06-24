@@ -19,8 +19,7 @@ for ($i=0; $i < 8; $i++) {
     //add event to calendar
     $calendar->add_event($msg, "2021-06-$rnd", 1, $color);
 }
-$calendar1->add_event('Doctors', '2021-05-31', 1);
-$calendar->add_event('Holiday', '2021-07-05', 7);
+
 ?>
 <!DOCTYPE html>
 <html>
