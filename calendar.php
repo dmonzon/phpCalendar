@@ -72,7 +72,5 @@ class Calendar {
         $html .= '</div>';
         return $html;
     }
-
 }
-
 ?>
